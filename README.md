@@ -1,0 +1,2 @@
+# WerewolfTelegramBot
+Rewrite GreyWolfDev/Werewolf
